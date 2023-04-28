@@ -3279,6 +3279,10 @@
     <tspan dy="1.2em" x="0">                                             </tspan>
   </text>
   <style type="text/css">
+    text {
+      fill: white;
+    }
+
     @keyframes flash { 0%                   { visibility: visible; }
                        0.6711409395973155%  { visibility: hidden;  } }
     #Frame-0 { animation: flash 6.208333333333333s linear infinite 0.0s;   }
